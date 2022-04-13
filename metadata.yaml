@@ -1,0 +1,32 @@
+_repo: O-Guarany-romance-brazileiro-Vol-02-of-2_67725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alencar, José Martiniano de
+    aliases:
+    - De Alencar, José Martiniano
+    - Alencar, Jose Martiniano de
+    - Alencar, José de
+    birthdate: 1829
+    deathdate: 1877
+    gutenberg_agent_id: '33653'
+    url: http://www.gutenberg.org/2009/agents/33653
+description: ''
+gutenberg_issued: '2022-03-28'
+identifiers:
+  gutenberg: '67725'
+language: pt
+pgterms:marc904: https://catalog.hathitrust.org/Record/011696100
+pgterms:marc905: 20211127072835alencar
+pgterms:marc906: '1883'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues and Kristen Carmean (Images generously made
+  available by Hathi Trust Digital Library.)
+publication_note: Brazil :B. L. Garnier,1883.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'O Guarany: romance brazileiro Vol. 02 (of 2)'
+url: http://www.gutenberg.org/ebooks/67725
