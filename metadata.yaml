@@ -1,5 +1,8 @@
 _repo: O-Guarany-romance-brazileiro-Vol-02-of-2_67725
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67725-h/images/cover.jpg
 creator:
   author:
     agent_name: Alencar, José Martiniano de
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '33653'
     url: http://www.gutenberg.org/2009/agents/33653
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67725#O-Guarany-romance-brazileiro-Vol-02-of-2
 gutenberg_issued: '2022-03-28'
 identifiers:
   gutenberg: '67725'
